@@ -93,3 +93,4 @@ first(portfolio_df, 5)
 kurtosis = compute_skewness(portfolio_df.Close_4)
 plot(histogram(portfolio_df[:,:Portfolio_Returns]))
 
+skfhjklshgl
